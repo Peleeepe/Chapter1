@@ -1,10 +1,10 @@
 class task {
     public static void main(String[] args) {
         
-        byte b = 72;       
+        byte b = 72; 
+        byte zero = 0;       
         short s = 3;        
         int i = 1;         
-        byte zero = 0;       
         char d = 'd';
         float f = 2.0f;     
         boolean bool = true; 
